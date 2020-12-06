@@ -48,5 +48,13 @@ h1 {
 }
 
 .bg-default {
-  background-color: #E9ECEF;
+  background-color: #e9ecef;
+}
+
+.devour-form {
+  line-height: 16px;
+}
+
+.devour-form button {
+  padding: 5px;
 }
