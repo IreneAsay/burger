@@ -8,14 +8,12 @@
 
 ## Table of Content
 
-- [Eat-Da-Burger!](#eat-da-burger)
-  - [Project Description](#project-description)
-  - [Table of Content](#table-of-content)
-  - [Criteria](#criteria)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Questions](#questions)
-  - [License](#license)
+- [Project Description](#project-description)
+- [Criteria](#criteria)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Questions](#questions)
+- [License](#license)
 
 ## Criteria
 
